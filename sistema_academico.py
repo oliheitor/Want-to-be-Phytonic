@@ -1,4 +1,3 @@
-
 import json
 
 # Nomes dos arquivos para persistência
